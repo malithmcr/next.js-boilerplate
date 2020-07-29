@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Search_Glyph" data-name="Search Glyph" transform="translate(0 0)">
+    <rect id="Search_Glyph_background" data-name="Search Glyph background" width="14" height="14" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+    <path id="Search" d="M13.173,14a.831.831,0,0,1-.6-.256L8.745,9.912l0,0a5.373,5.373,0,0,1-3.221,1.062H5.5a5.51,5.51,0,0,1-3.91-9.382A5.476,5.476,0,0,1,5.437,0H5.46a5.532,5.532,0,0,1,5.5,5.508A5.386,5.386,0,0,1,9.91,8.74l3.833,3.834A.827.827,0,0,1,13.173,14ZM5.444,1.1A4.32,4.32,0,0,0,2.368,2.374,4.413,4.413,0,0,0,5.5,9.878h.017A4.39,4.39,0,0,0,5.464,1.1Z" fill="#b8c0c8"/>
+  </g>
+</svg>
